@@ -1,0 +1,18 @@
+5n+4 mod 3 = 2 
+4 mod 3 = 1
+5n mod 3 = 1
+5 mod 3 = 2
+n mod 3 = 2
+
+set n=2 so that result is 5*2+4 = 14 
+set n=5 so that result is 5*5+4 = 29
+set n=8 so that result is 8*5+4 = 44
+
+x mod 7 =2
+x mod 8 =4
+x mod 9 =3
+
+x= 72 + 63*4 + 56*6
+x mod 7 = 72 mod 7 = 2
+x mod 9 = 56 mod 9 = 2
+ 
